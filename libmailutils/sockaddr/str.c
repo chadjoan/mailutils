@@ -25,6 +25,7 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <netdb.h>
+#include <stddef.h>
 
 #include <mailutils/sockaddr.h>
 #include <mailutils/errno.h>
